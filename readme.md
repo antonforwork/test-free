@@ -6,8 +6,8 @@ http://take.ms/KhJWy
 ------
 0. cp .env.example .env
 1. указать бд настройки в файл .env
-2. composer update
-3. php artisan key:generate
+2. php artisan key:generate
+3. composer update
 4. php artisan migrate
 5. php artisan db:seed
 6. npm install
